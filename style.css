@@ -16,7 +16,7 @@ body {
 }
 
 #card, #card-front, #card-inside {
-  height: 480px;
+  height: 640px;
 }
 
 .wrap {
@@ -24,7 +24,7 @@ body {
     height: 100%;
 }
 #card-front, #card-inside {
-  width: 50%;
+  width: 80%;
   -webkit-box-shadow: 2px 2px 30px rgba(0, 0, 0, .25), 0 0 1px rgba(0, 0, 0, .5);
   -moz-box-shadow: 2px 2px 30px rgba(0, 0, 0, .25), 0 0 1px rgba(0, 0, 0, .5);
   box-shadow: 2px 2px 30px rgba(0, 0, 0, .25), 0 0 1px rgba(0, 0, 0, .5);
